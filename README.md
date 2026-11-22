@@ -1,5 +1,10 @@
 # Ajaia Docs
 
+
+## 🚀 Live Demo
+
+**Try the application here:** [Ajaia Docs – Live Application](https://ajaia-docs-7c43.onrender.com/)
+
 A lightweight full-stack collaborative document editor built for the Ajaia engineering assignment.
 
 ## Features
